@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Bibliotheka",
+  "short_name": "Bibliotheka",
+  "description": "Biblioteca e leitor pessoal para PDF, EPUB e TXT, com leitura em voz alta, frases salvas e organização por estantes.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
